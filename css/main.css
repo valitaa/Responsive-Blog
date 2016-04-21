@@ -1,0 +1,94 @@
+/* Inserta tu codigo aqui */
+.header{
+	background-color: #2b233e;
+}
+
+img{
+	max-width: 100%;
+}
+
+.enlace{
+	color: white;
+	float: left;
+	padding: 8px;
+	margin: 10px;
+	text-decoration: none;
+}
+
+li{
+	list-style: none;
+}
+
+.fondo{
+	background-color: #38213e;
+}
+
+.caja{
+	background-image: url(../image/image2.jpg);
+	padding: 100px;
+    background-size: cover;
+}
+
+.cajita{
+	background-color: black;
+	padding: 40px 0px 60px 0px;
+    margin: 120px;
+}
+
+.titulo{
+	text-align: center;
+	color: #b4883c;
+	font-size: 60px;
+	font-family: cursive;
+	padding: 20px;
+}
+
+.ul{
+	text-align: center;
+	margin-left: 155px;
+}
+
+.life{
+	text-align: center;
+	float: left;
+	padding: 10px;
+	color: white;
+	font-size: 10px;
+}
+
+.naranjo{
+	text-align: center;
+	color: #b4883c;
+	font-size: 13px;
+	font-family: cursive;
+	padding: 5px;
+}
+.blanco{
+	color: white;
+	text-align: center;
+	font-family: cursive;
+	font-size: 13px;
+	padding: 10px;
+}
+
+.espacio{
+	padding: 10px;
+	padding-top: 20px;
+}
+
+.cajita2{
+	background-color: black;
+}
+video{
+	max-width: 100%;
+
+}
+/* Responsive */
+
+@media screen and (max-width : 920px) {
+
+}
+
+@media screen and (max-width: 600px) {
+
+}
